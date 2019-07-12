@@ -1,5 +1,5 @@
-# Diabetes_Intervention
-Diabetes lifestyle intervention cost-effectiveness analysis
+# Comparing the Lifestyle Interventions for Pre-diabetes: An Integrated Microsimulation and Population Simulation Model
+Find the paper at http://snasrol.people.clemson.edu
 
 NoIntervention is the simulation of the control group where no prevention program is carried out.
 DPP-* is the simulation of the below prevention programs:
